@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python beginner projects.
 - 🌱 I’m currently learning Python
+- 💬 I'm willing to help with the GitHub introductory course
 -->
